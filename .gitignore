@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.duckdb
+*.duckdb.wal
+logs/*
+!logs/.gitkeep
+reports/
+src/threat_hunt_engine/windows_validation_findings.csv
